@@ -1,0 +1,11 @@
+name: ManHunt
+version: @version@
+main: fr.redboxing.manhunt.ManHunt
+api-version: 1.17
+authors: [ RedBoxing ]
+description: Dream Manhunt plugin
+website: https://redboxing.fr
+commands:
+  manhunt:
+    permission: fr.redboxing.manhunt
+    description: manhunt command
